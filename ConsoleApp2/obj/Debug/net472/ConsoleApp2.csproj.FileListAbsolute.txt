@@ -1,0 +1,16 @@
+C:\Users\Administrator.RIGEL\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net472\ConsoleApp2.exe.config
+C:\Users\Administrator.RIGEL\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net472\ConsoleApp2.exe
+C:\Users\Administrator.RIGEL\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net472\ConsoleApp2.pdb
+C:\Users\Administrator.RIGEL\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net472\System.IO.FileSystem.AccessControl.dll
+C:\Users\Administrator.RIGEL\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net472\System.Security.AccessControl.dll
+C:\Users\Administrator.RIGEL\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net472\System.Security.Permissions.dll
+C:\Users\Administrator.RIGEL\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net472\System.Security.Principal.Windows.dll
+C:\Users\Administrator.RIGEL\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net472\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Administrator.RIGEL\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net472\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator.RIGEL\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net472\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator.RIGEL\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net472\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Administrator.RIGEL\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net472\ConsoleApp2.AssemblyInfo.cs
+C:\Users\Administrator.RIGEL\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net472\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.RIGEL\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net472\ConsoleApp2.csproj.CopyComplete
+C:\Users\Administrator.RIGEL\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net472\ConsoleApp2.exe
+C:\Users\Administrator.RIGEL\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net472\ConsoleApp2.pdb
