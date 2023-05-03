@@ -1,0 +1,1 @@
+[![.NET](https://github.com/mosama6/TestCheck/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/mosama6/TestCheck/actions/workflows/dotnet.yml)
