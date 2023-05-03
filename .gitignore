@@ -2,8 +2,9 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/UnitTests/bin/Debug/net6.0
 /.vs
 /ConsoleApp2/obj
 /ConsoleApp2/bin
-*.cache
+/UnitTests/obj
+/UnitTests/bin
+
