@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs*
+/ConsoleApp2/obj*
+/ConsoleApp2/bin*
+/UnitTests/obj*
+/UnitTests/bin*
+/ConsoleApp2/obj/Debug/net6/ConsoleApp2.assets.cache
+/ConsoleApp2/obj/Debug/net6/ConsoleApp2.csproj.FileListAbsolute.txt
+/UnitTests/obj/Debug/net6.0/UnitTests.assets.cache
+/UnitTests/obj/Debug/net6.0/UnitTests.csproj.FileListAbsolute.txt
