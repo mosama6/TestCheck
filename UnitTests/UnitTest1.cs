@@ -5,7 +5,7 @@ namespace UnitTests
     [TestClass]
     public class UnitTest1
     {
-        private const string Expected = "Osama";
+        private const string Expected = "Osama1";
         [TestMethod]
         public void TestMethod1()
         {
