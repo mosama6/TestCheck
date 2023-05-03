@@ -30,7 +30,7 @@ public class MergeNames
 
     public static double CalculateSimilarity(Bitmap bmpImage1, Bitmap bmpImage2)
     {
-        int correct = 0;
+        int correct = 1;
         int width= bmpImage1.Width> bmpImage2.Width? bmpImage2.Width: bmpImage1.Width;
         int height = bmpImage1.Height > bmpImage2.Height ? bmpImage2.Height : bmpImage1.Height;
         for (int i = 0; i < width; i++)
